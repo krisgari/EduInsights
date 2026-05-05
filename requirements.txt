@@ -1,0 +1,9 @@
+streamlit
+pandas
+google-cloud-bigquery
+python-dotenv
+langchain-google-vertexai
+langchain-community
+langgraph
+google-cloud-aiplatform
+sqlalchemy-bigquery
